@@ -1,0 +1,46 @@
+{
+    "tools": [
+        {
+            "id": "image-to-png",
+            "name": "Image to PNG Converter",
+            "description": "Convert images to PNG format easily",
+            "category": "image-tools",
+            "url": "/tools/image-to-png.html"
+        },
+        {
+            "id": "image-to-jpg",
+            "name": "Image to JPG Converter",
+            "description": "Convert images to JPG/JPEG format",
+            "category": "image-tools",
+            "url": "/tools/image-to-jpg.html"
+        },
+        {
+            "id": "image-resizer",
+            "name": "Image Resizer",
+            "description": "Resize images to any dimension",
+            "category": "image-tools",
+            "url": "/tools/image-resizer.html"
+        },
+        {
+            "id": "meta-tag-generator",
+            "name": "Meta Tag Generator",
+            "description": "Generate SEO-friendly meta tags",
+            "category": "seo-tools",
+            "url": "/tools/meta-tag-generator.html"
+        },
+        {
+            "id": "word-counter",
+            "name": "Word Counter",
+            "description": "Count words, characters, and paragraphs",
+            "category": "text-tools",
+            "url": "/tools/word-counter.html"
+        },
+        {
+            "id": "json-formatter",
+            "name": "JSON Formatter",
+            "description": "Format and validate JSON data",
+            "category": "developer-tools",
+            "url": "/tools/json-formatter.html"
+        }
+    ]
+} 
